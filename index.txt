@@ -1,0 +1,5 @@
+print('Hello')
+
+def funcfetch:
+    if i%4 = 0
+    
