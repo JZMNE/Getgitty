@@ -1,71 +1,70 @@
 body {
-    background-color: darkgrey;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color:lightyellow;
+    font-family: Arial;
     margin:0;
 }
 
 h1{
-    color:aliceblue;
-    letter-spacing: 2px;
+    color:brown;
+    letter-spacing:2px;
     text-decoration: underline;
 }
 
 header{
-    width: 100%;
-    background-color: white;
-    border: 1px dotted blueviolet;
-    height: 100px;
-    padding: 20px;
-    color:white;
-    text-align: center;
-    font-weight: 900;
-
-
+    width:100%;
+    background-color:white;
+    border:1px dashed black;
+    height:100px;
+    padding:20px;
+    color:black;
+    text-align:center;
+    font-weight:900;
 }
 
 nav{
-    width: 100%;
-    background-color: azure;
-    height: 20px;
-    padding: 10px;
-
+    width:100%;
+    background:black;
+    color:white;
+    height:20px;
+    padding:10px;
 }
 
 aside{
-    width: 300px;
-    height: 500px;
-    background-color: black;
-    color: azure;
-    float: left;
+    width:300px;
+    height:500px;
+    background: #dedede;
+    float:left;
+    padding:10px;
 }
-
 article{
-    width: 100px;
-    float: left;
-    background: greenyellow;
-    margin: 20px;
-}
+    width:100px;
+    float:left;
+    background:purple;
 
+}
 section{
-    background: darkgreen;
-    padding: 20 px;
+    BACKGROUND:url('assets/bg.jpg');
+    padding:20px;
+
 }
 
 footer{
-    clear: both;
-    display: block;
-    background: lightcoral;
-    text-align: center;
-    padding: 20 px;
-
+    clear:both;
+    display:block;
+    background:lightblue;
+    text-align:center;
+    padding:20px;
+   /* height:300px;
+    line-height:300px; */
 }
 
 img{
-    max-width: 100%;
+    max-width:100px;
 }
 
 .mypicture{
-    width: 100px;
+    max-width:300px;
     border:5px solid pink;
     border-radius: 50%;
+    
 }
