@@ -1,0 +1,41 @@
+body {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+}
+
+h1{
+    color:aliceblue;
+    letter-spacing: 2px;
+    text-decoration: underline;
+}
+
+header{
+    width: 100%;
+    background-color: blue;
+    height: 100px;
+    padding: 20px;
+    color:white;
+    text-align: center;
+    font-weight: 900;
+
+
+}
+
+nav{
+    width: 100%;
+    background-color: azure;
+    height: 20px;
+    padding: 10px;
+
+}
+
+aside{
+    width: 300px;
+    height: 500px;
+    background-color: black;
+    color: azure;
+    float: left;
+
+
+}
