@@ -4,10 +4,7 @@ table{
     background: green;
 
 }
-thead{
 
-
-}
 td{
     border:1px solid black ;
     background: black;
@@ -24,6 +21,6 @@ thead, tfoot{
 .footie{
     background: aqua;
     color: black;
-    top: 170px;;
+    top: 100px;;
     position: absolute;;
 }
