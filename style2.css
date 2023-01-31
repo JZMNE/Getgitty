@@ -1,0 +1,29 @@
+table{
+    border: 1px solid black;
+    width: 50%;
+    background: green;
+
+}
+thead{
+
+
+}
+td{
+    border:1px solid black ;
+    background: black;
+    color: antiquewhite;
+
+}
+
+thead, tfoot{
+    background: floralwhite;
+    color: rgb(1, 20, 1);
+    width: 100%;
+}
+
+.footie{
+    background: aqua;
+    color: black;
+    top: 170px;;
+    position: absolute;;
+}
